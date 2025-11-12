@@ -139,6 +139,23 @@
 - [ ] .env.example com todas as variáveis
 
 
+## Fase 2 - Memory System e RAG
+- [x] Implementar Memory System com toggle ON/OFF
+- [x] Summarization automática de conversas
+- [ ] Integração com Vector DB
+- [x] Upload de arquivos (PDF, DOCX, imagens) - router criado
+- [ ] Extração de texto com OCR
+- [ ] Chunking e indexação
+- [x] Busca semântica no contexto - implementada
+
+## Fase 3 - Interface ChatGPT Dark Mode
+- [x] Redesenhar layout como ChatGPT
+- [x] Dark mode por padrão
+- [x] Chat direto na página principal
+- [x] Sidebar com histórico de conversas
+- [x] Upload de arquivos na interface - botão adicionado
+- [x] Memory toggle na UI - implementado
+
 ## Itens Completados (Fase 1)
 - [x] Criar schema completo do banco de dados
 - [x] Definir tipos compartilhados (ProviderResponse, IAAdapter, etc)
