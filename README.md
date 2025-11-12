@@ -236,7 +236,7 @@ MIT
 
 ## 🙏 Agradecimentos
 
-- Powered by [Manus.ai](https://manus.ai)
+- Powered by [Vitorp](https://manus.ai)
 - OpenAI, HuggingFace, Stability AI e outros provedores de IA
 
 ---
